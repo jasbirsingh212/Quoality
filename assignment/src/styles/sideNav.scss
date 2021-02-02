@@ -1,0 +1,18 @@
+.sidenav{
+    background-color: #2e466e;
+    width: 20%;
+    height: 900px;
+    color: whitesmoke;
+
+    .dashboard{
+        margin-top: 10px;
+        width: auto;
+        height: 60px;
+        text-align: start;
+        
+        .navlink{
+            text-decoration: none;
+            color: whitesmoke;
+        }
+    }
+}

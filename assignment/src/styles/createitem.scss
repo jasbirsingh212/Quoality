@@ -1,0 +1,23 @@
+.new-item{
+    .item-input{
+        margin: 20px 5px 20px 5px;
+
+        label{
+            margin-right: 10px;
+        }
+
+        input{
+            height: 30px;
+            width: 300px;
+            outline: none;
+        }
+    }
+
+    button{
+        padding: 10px;
+        background: crimson;
+        color: white;
+        outline: none;
+        border: none;
+    }
+}
